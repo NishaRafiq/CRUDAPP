@@ -18,12 +18,16 @@ Update Screen
 
 
 
-![223](https://user-images.githubusercontent.com/79657243/124256830-2aaae000-db45-11eb-85b8-741e62e288f8.png)
+![22](https://user-images.githubusercontent.com/79657243/124260704-6d6eb700-db49-11eb-9778-e2b4c3ca5150.png)
+
+
 
 Main Record Page
 
 
-![33](https://user-images.githubusercontent.com/79657243/124258184-8cb81500-db46-11eb-87a8-36b6e89a89b9.png)
+![33](https://user-images.githubusercontent.com/79657243/124260735-75c6f200-db49-11eb-9581-ecf3648f5b44.png)
+
+
 
 Contact Us
 
