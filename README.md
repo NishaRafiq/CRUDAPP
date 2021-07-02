@@ -5,10 +5,10 @@ create database and table.access it on local host.
 ![phpdatabase](https://user-images.githubusercontent.com/79657243/124228331-81082680-db25-11eb-9719-f4241f48e0e0.PNG)
 
 ![phptable](https://user-images.githubusercontent.com/79657243/124228339-82395380-db25-11eb-8414-4740f77b8814.PNG)
-
 splash screen
 
 ![0 1](https://user-images.githubusercontent.com/79657243/124256701-07803080-db45-11eb-8d08-6e27042c9ed4.png)
+
 
 ![1](https://user-images.githubusercontent.com/79657243/124256759-16ff7980-db45-11eb-9075-44c66801272b.PNG)
 
