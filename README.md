@@ -12,10 +12,18 @@ splash screen
 
 ![1](https://user-images.githubusercontent.com/79657243/124256759-16ff7980-db45-11eb-9075-44c66801272b.PNG)
 
+
 ![22](https://user-images.githubusercontent.com/79657243/124256791-1ff04b00-db45-11eb-8c9f-a6155a998b51.png)
+
 
 ![223](https://user-images.githubusercontent.com/79657243/124256830-2aaae000-db45-11eb-85b8-741e62e288f8.png)
 
-![33](https://user-images.githubusercontent.com/79657243/124256795-2088e180-db45-11eb-8028-65b437ee0d35.png)
+
+![33](https://user-images.githubusercontent.com/79657243/124258184-8cb81500-db46-11eb-87a8-36b6e89a89b9.png)
+
+
+![IMG-20210702-WA0130](https://user-images.githubusercontent.com/79657243/124258442-d4d73780-db46-11eb-811d-78c42c4f324a.jpg)
+
+
 
 
