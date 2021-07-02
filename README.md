@@ -9,13 +9,11 @@ splash screen
 
 ![0 1](https://user-images.githubusercontent.com/79657243/124256701-07803080-db45-11eb-8d08-6e27042c9ed4.png)
 
+First Page
 
 ![1](https://user-images.githubusercontent.com/79657243/124256759-16ff7980-db45-11eb-9075-44c66801272b.PNG)
 
-
-![22](https://user-images.githubusercontent.com/79657243/124256791-1ff04b00-db45-11eb-8c9f-a6155a998b51.png)
-
-
+Update Screen
 ![223](https://user-images.githubusercontent.com/79657243/124256830-2aaae000-db45-11eb-85b8-741e62e288f8.png)
 
 
