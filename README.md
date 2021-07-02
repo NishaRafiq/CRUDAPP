@@ -18,7 +18,7 @@ Update Screen
 
 
 
-![22](https://user-images.githubusercontent.com/79657243/124260704-6d6eb700-db49-11eb-9778-e2b4c3ca5150.png)
+![22](https://user-images.githubusercontent.com/79657243/124260986-b9b9f700-db49-11eb-9339-b869354a8fda.png)
 
 
 
